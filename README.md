@@ -5,7 +5,7 @@ In the present study, a model was developed to simulate pathogen shedding, patho
 
 The results were summarized as a decision tree to guide the selection of sampling strategy based on disease incidence, geographic distribution of risk, pathogen loss, and sensitivity of detection assays. The adaptive sampling site allocation method consistently outperformed alternatives with fixed site locations in most scenarios. In some cases, the optimum allocation method increased the median sensitivity from 45% to 90% within 20 updates.
 
-<center><img src="cover.pdf" alt="Fecal" width="600"><center>
+<center><img src="cover.png" alt="Fecal" width="600"><center>
 
 This repository includes all the codes (estimation, simulation) of Adaptive Sampling Site Allocation  model. The paper was submitted to Epidemics for publication.
 
